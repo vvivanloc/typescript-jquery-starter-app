@@ -3,10 +3,10 @@
 Very minimalist TypeScript/jQuery starter application.
 
 The purpose of this starter app is to provide a minimal setup to create a small project with 2020 technologies:
- - TypeScript support.
+ - TypeScript support
  - jQuery support... because why not ¯\\\_(ツ)\_/¯
- - sass/scss support.
- - Bundling & watching with webpack whenever you make code changes.
+ - sass/scss support
+ - bundling & watching with webpack.
  
 ## Prerequisites
 
